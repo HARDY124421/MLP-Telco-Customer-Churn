@@ -26,7 +26,8 @@ Welcome to my Machine Learning Project for predicting customer churn using the p
 ---
 
 
-💡 About the Dataset
+##💡 About the Dataset
+
 📊 Source: Kaggle - Telco Customer Churn Dataset
 
 Rows: 7,043
@@ -35,7 +36,8 @@ Target: Churn (Yes/No)
 
 Features include customer demographics, services, tenure, charges, etc.
 
-📌 Project Highlights
+##📌 Project Highlights
+
 🔍 Feature engineering using tenure-based transformations
 
 📈 Model training using XGBoost with probability thresholds
