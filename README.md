@@ -6,9 +6,10 @@ Welcome to my Machine Learning Project for predicting customer churn using the p
 - 🎯 An **XGBoost classifier** trained to detect customer churn
 - 🖥️ A **Streamlit web app** for live customer churn predictions
 - 💾 Exported model and feature files for reproducibility
-- 📹 (Optional) Demo video walkthrough
+- 📹 Demo video walkthrough
 
 ---
+
 
 ## 🗂️ Files in This Repository
 
@@ -23,14 +24,6 @@ Welcome to my Machine Learning Project for predicting customer churn using the p
 | `README.md` | You are here 📘 |
 
 ---
-
-## 🚀 How to Run the App Locally
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/MLP-Telco-Customer-Churn.git
-cd MLP-Telco-Customer-Churn
 
 
 💡 About the Dataset
@@ -52,3 +45,12 @@ Features include customer demographics, services, tenure, charges, etc.
 🧠 Live predictions through a clean UI with Streamlit
 
 📁 Organized structure for deployment and reproducibility
+
+
+## 🚀 How to Run the App Locally
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/MLP-Telco-Customer-Churn.git
+cd MLP-Telco-Customer-Churn
