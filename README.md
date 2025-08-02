@@ -31,3 +31,24 @@ Welcome to my Machine Learning Project for predicting customer churn using the p
 ```bash
 git clone https://github.com/YOUR_USERNAME/MLP-Telco-Customer-Churn.git
 cd MLP-Telco-Customer-Churn
+
+
+💡 About the Dataset
+📊 Source: Kaggle - Telco Customer Churn Dataset
+
+Rows: 7,043
+
+Target: Churn (Yes/No)
+
+Features include customer demographics, services, tenure, charges, etc.
+
+📌 Project Highlights
+🔍 Feature engineering using tenure-based transformations
+
+📈 Model training using XGBoost with probability thresholds
+
+📊 SHAP values used for feature importance
+
+🧠 Live predictions through a clean UI with Streamlit
+
+📁 Organized structure for deployment and reproducibility
